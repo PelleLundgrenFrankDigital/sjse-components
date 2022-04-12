@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sjse/component-library": "0.0.1-mui5-alpha",
+    "@sjse/component-library": "^0.0.12-mui5-alpha",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
